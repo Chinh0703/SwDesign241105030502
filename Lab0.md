@@ -1,0 +1,14 @@
+#Lab0
+
+##Các biểu đồ
+###Biểu đồ lớp
+
+![Biểu đồ lớp](https://www.planttext.com/api/plantuml/png/R96n2i8m48RtFCNHIOKKNOj81rT1Q70_sj04sWksgL34Xt7r4NHmy4by0b_1jjPQgzdko-N_kDpZSlLpYvajqeI52UOv11Wgs3Ee3eSKwzA3m6QQuXPQIJyK8C5IA4Enq3GQTtS7riOAXQGsMb8lksC3WJ9Ym03ImZJMEdjdTDHYc-4NxNnhfMMngXxrV1qR-2Z6yeMNQEKxMPCI6LByFKtpFSxCWJddu4nTT-BqN1ua-dOYs1P8x3DotS_vub-_lP-FXlcIede5Jm000F__0m00)\
+
+####Biểu đồ ca sử dụng
+
+![](https://www.planttext.com/api/plantuml/png/UhzxlqDnIM9HIMbk3bTYSab-aO9IICRX1NaP2cMPXrVbAIaa5Yk4X26a7kvUhb2ISMm3H2A4YwkqE3KviJXLGSdts8Q7knVdAHGVNfYS0PRs3KR8XXGztBKOIIu4IIwm52YNfv1pU2-IWa0Vx2fAq5qNw0Dq7rT8c8AkhXt8IYWBQ45829W5CWdE1AbrICrB0VaN0000__y30000)
+
+#####Biểu đồ gói
+
+![](https://www.planttext.com/api/plantuml/png/UhzxlqDnIM9HIMbk3bT1Od9sOdggWb9WwSDTY_CKSWxlLGZ9EBP1eIppuUxsF2M5QYu58C2cBFZmmkGCc08GICv9B2vM24vCpa0J2iZ8J2trBStF0ulNSk4qCYJZy8Ay3A3TXrVbOPeSaf6Obn6McKhG6B-Cmulo58eVxjw8pP1I848s0RS3T7NjiFdOIi7ts8Q7knVdwOSK0UKm346s7gSH236kMYw7rBmKK6m00000__y30000)
