@@ -1,0 +1,51 @@
+# Họ và tên: Phạm Văn Chính - Mã sinh viên: 4451050771
+
+## 1. Tổng quan hệ thống
+Hệ thống **Payroll System** được thiết kế để quản lý các hoạt động liên quan đến tiền lương, thuế, và nhân sự trong doanh nghiệp. Thiết kế bao gồm các chức năng chính như quản lý nhân viên, tính lương, quản lý bảng lương, thuế, báo cáo, và người dùng.  
+
+Hệ thống hỗ trợ ba vai trò chính:
+- **Quản lý (Manager):** Chịu trách nhiệm quản lý nhân sự và vận hành hệ thống.
+- **Nhân viên (Employee):** Cung cấp thông tin chấm công.
+- **Kế toán (Accountant):** Xử lý các công việc liên quan đến lương, thuế và báo cáo tài chính.
+
+---
+
+## 2. Các ca sử dụng chính
+
+### 2.1. Quản lý nhân viên
+- **Thêm nhân viên mới**: Cần thiết để bổ sung thông tin nhân viên vào hệ thống.
+- **Cập nhật thông tin nhân viên**: Giúp duy trì thông tin chính xác và kịp thời cho mỗi nhân viên.
+- **Xóa nhân viên**: Để loại bỏ thông tin nhân viên không còn làm việc tại công ty.
+
+### 2.2. Tính lương
+- **Nhập thông tin chấm công**: Để xác định số giờ làm việc hoặc ngày công để tính toán lương.
+- **Tính toán lương theo giờ/tháng**: Xác định số tiền cụ thể cần chi trả cho nhân viên.
+- **Áp dụng các khoản khấu trừ và phụ cấp**: Đảm bảo rằng các khoản được ghi nhận đúng theo quy định và chính sách của công ty.
+
+### 2.3. Quản lý bảng lương
+- **Tạo bảng lương mới**: Giúp hệ thống chủ động trong việc thực hiện các tính toán lương theo chu kỳ.
+- **Xem bảng lương đã tạo**: Để kiểm tra và xác nhận tính chính xác của bảng lương.
+- **Xuất bảng lương ra file**: Cần thiết cho việc lưu trữ và chia sẻ thông tin.
+
+### 2.4. Quản lý thuế
+- **Tính toán thuế thu nhập cá nhân**: Để đảm bảo nhân viên và công ty tuân thủ nghĩa vụ thuế.
+- **Cập nhật thông tin thuế**: Giúp điều chỉnh theo các quy định thay đổi về thuế.
+- **Lập báo cáo thuế**: Cung cấp thông tin cần thiết cho các báo cáo tài chính và tuân thủ quy định.
+
+### 2.5. Báo cáo
+- **Tạo báo cáo lương theo thời gian**: Để phân tích xu hướng chi phí lương theo thời gian.
+- **Xuất báo cáo nhân viên**: Cung cấp thông tin chi tiết về lương và tình hình nhân sự.
+- **Phân tích chi phí lương**: Để hỗ trợ trong việc lập kế hoạch ngân sách.
+
+### 2.6. Quản lý người dùng
+- **Đăng nhập/Đăng xuất**: Đảm bảo bảo mật thông tin cho hệ thống.
+- **Quản lý quyền truy cập**: Quy định người dùng nào có quyền truy cập vào các chức năng đặc biệt.
+- **Cập nhật thông tin người dùng**: Duy trì thông tin chính xác cho người dùng trong hệ thống.
+
+---
+
+## 3. Biểu đồ Use Case
+
+Dưới đây là biểu đồ các ca sử dụng được thiết kế bằng PlantUML:
+
+![Diagram](https://www.planttext.com/api/plantuml/png/Z5JBRjGm5DtxAwvcNq7csMvGKSKAg420nDRrk4c4umJ7gOWGYueVO8-G6D1iYaQg11icGhDmDV_XB-0NS59d9aw2rCsCVEuvz-RuvEPliJbE9HOoYnXYz5o2Z464VY1X7WfAP1XpX32HiO31yqolltDWwiy0S0fFCSS-5NNrD53VE5o4wefNvKTHmkASqhh-MAytfhjQt9OV4X9dN68k4Ie7OUup2eDdE1SnO_0YJoMD1l0U0MGf9JWrnPU1keg0xmT1f8lFOTNlrOdNf9xezIenLFDdF0Ng5_T1Xhmfjh9XK_PQ_SGzd56JSnfKlHjDYK6M4P0Ii8gnyzngnODRxy2srzl5ZZPfqjHb0dDTB4tNDsN73AJGnG-uK5yX2Km1Y44JAvqw4_Hw4SDPcOzVZt0kP-Quf56BQrc73il4lPJjfWB3USYe5HpzpwOCZ7fJ9tF_Bj6u4YVD9vNaJ1cFfFnngSEUczXHNOFUgC_XZjnDtdE2t6y0lCroNLoQfnPPNkQogdFnd4nlFjryDFugjyazUtfNpQtvqpkzj_xsMXTVGfYhttitC_G18Rk7S73meDe2zpnidKUeNamBZD5-5IqqwKBJBZJhGeTTwAWBcTUXYtazsB076_LWu_OTJDh0j0tC43gcV6u-U_y0003__mC0)
